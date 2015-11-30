@@ -5,3 +5,6 @@
 # Decrypts pdf files where possible.
 # Renames file according to mail date and time
 # tries to decrypt old files also 
+
+Usage - Just Run with Python <filename>. Add new email addresses and Passwords as Required. 
+Gmail Password is required in the code.
